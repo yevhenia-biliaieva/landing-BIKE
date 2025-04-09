@@ -1,0 +1,2 @@
+"use strict";var menu=document.querySelector(".menu"),menuButton=document.querySelector(".icon--menu"),menuCloseButton=document.querySelector(".icon--close"),navLinks=document.querySelectorAll(".nav__link");menuButton.addEventListener("click",function(){menu.classList.add("menu--open")}),menuCloseButton.addEventListener("click",function(){menu.classList.remove("menu--open")}),navLinks.forEach(function(e){e.addEventListener("click",function(){menu.classList.remove("menu--open")})});
+//# sourceMappingURL=landing-BIKE.349dc0c0.js.map

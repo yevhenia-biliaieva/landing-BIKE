@@ -1,17 +1,17 @@
  [DEMO LINK](https://yevhenia-biliaieva.github.io/landing-BIKE/)
 
-Project: Bike Landing Page
+Project: Bike Landing Page.
 
 A responsive landing page for bike sales.
 
 Technologies used:
-HTML
+ - HTML
 
-CSS (Flexbox, Media Queries)
+ - CSS (Flexbox, Media Queries)
 
-JavaScript
+ - JavaScript
 
 Features:
-Responsive design
+ - Responsive design
 
-Interactive elements
+ - Interactive elements
